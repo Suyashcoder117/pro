@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+}
+
+#moma{
+    width:300px;
+    box-shadow: 5px 5px 10px grey;
+    background-color: black;
+    color: white;
+}
+#pink{
+    color: pink;
+}
